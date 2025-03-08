@@ -22,3 +22,4 @@ while start:
 
         except sr.RequestError as e:
             print(f"Error with the speech recognition service: {e}")
+            # ed
